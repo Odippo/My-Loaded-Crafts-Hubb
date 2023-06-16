@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_new_cover.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/new_cover.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_myquery.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/myquery.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_myinfotwooo.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/myinfotwooo.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/layout_activity_query.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/layout/activity_query.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/layout_activity_register.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_myinfoothreeee.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/myinfoothreeee.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_model.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/model.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_mymenu.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/mymenu.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_signinthree.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/signinthree.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.craftshub.app-pngs-49:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.craftshub.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_myregister.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/myregister.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_infocraft.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/infocraft.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/drawable_final_signup.png.flat",
+        "source": "com.example.craftshub.app-main-55:/drawable/final_signup.png"
+    },
+    {
+        "merged": "com.example.craftshub.app-merged_res-53:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.craftshub.app-main-55:/layout/activity_sign_in.xml"
+    }
+]

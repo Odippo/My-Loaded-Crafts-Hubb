@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">160028602675-rhju41668kdtqmj5eneidggvutvqcubu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">160028602675</string>
+    <string name="google_api_key" translatable="false">AIzaSyAX-wpf0U5IcAMDkedS0osI_Q19VKQCOug</string>
+    <string name="google_app_id" translatable="false">1:160028602675:android:69f98d5110031233a84e46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAX-wpf0U5IcAMDkedS0osI_Q19VKQCOug</string>
+    <string name="google_storage_bucket" translatable="false">crafts-hub-1.appspot.com</string>
+    <string name="project_id" translatable="false">crafts-hub-1</string>
+</resources>

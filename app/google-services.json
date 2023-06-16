@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160028602675",
+    "project_id": "crafts-hub-1",
+    "storage_bucket": "crafts-hub-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160028602675:android:69f98d5110031233a84e46",
+        "android_client_info": {
+          "package_name": "com.example.craftshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160028602675-rhju41668kdtqmj5eneidggvutvqcubu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-wpf0U5IcAMDkedS0osI_Q19VKQCOug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160028602675-rhju41668kdtqmj5eneidggvutvqcubu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
